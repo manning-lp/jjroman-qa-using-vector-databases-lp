@@ -1,7 +1,9 @@
 # qa-using-vector-databases-lp-author
 Repository for liveProject: Q&A Using Vector Databases
 
-The file documentation.jsonl contains the already processed information extracted from the LangChain website. You will have to use it if have not completed project 1.
+The file documentation.zip contains the extracted data from the LangChain documentation website. Use it along LangChain's Readthedocs module.
+
+The file documentation.jsonl contains the already processed information extracted from the LangChain website. You will might want to use it in Milestone 2 if you had trouble completing Milestone 1.
 
 *Disclaimer*
 
